@@ -11,15 +11,15 @@ Ben Wilson is the author of the Postal Marines science fantasy series. He’s in
    * Write about 100 years from now, when Musk wins.
    * _Bellicose_ ![status: Relaunching](https://img.shields.io/badge/status-Relaunch:Relaunching-red.svg)
    * _Luctation_ ![status: First Draft](https://img.shields.io/badge/status-First%20Draft:Working-red.svg)
-   * _Imbroglio_ ![status: Planning](https://img.shields.io/badge/status-Planning-wheat.svg)
+   * _Imbroglio_ ![status: Planning](https://img.shields.io/badge/status-Planning-RosyBrown.svg)
    * _Scintilla_ ![status: Editing](https://img.shields.io/badge/status-Revision:With%20Editor-green.svg)
    * _Solace_
-* [Tears in the Rain](https://github.com/Merovex/tears) ![status: Planning](https://img.shields.io/badge/status-Planning-red.svg)
-* Trolls in Space ![status: Idea](https://img.shields.io/badge/status-Idea-red.svg)
+* [Tears in the Rain](https://github.com/Merovex/tears) ![status: Planning](https://img.shields.io/badge/status-Planning-RosyBrown.svg)
+* Trolls in Space ![status: Idea](https://img.shields.io/badge/status-Idea-RosyBrown.svg)
 * [Strand Series](https://github.com/Merovex/stranded-series)
-   * _Book 1 - Discovery_: ![status: First Draft](https://img.shields.io/badge/status-First%20Draft:Waiting-red.svg)
-* Pigna Balkni ![status: Idea](https://img.shields.io/badge/status-Idea-red.svg)
-* King David ![status: Idea](https://img.shields.io/badge/status-Idea-red.svg)
+   * _Book 1 - Discovery_: ![status: First Draft](https://img.shields.io/badge/status-First%20Draft:Waiting-RosyBrown.svg)
+* Pigna Balkni ![status: Idea](https://img.shields.io/badge/status-Idea-RosyBrown.svg)
+* King David ![status: Idea](https://img.shields.io/badge/status-Idea-RosyBrown.svg)
 
 <!--
 **Merovex/Merovex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
