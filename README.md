@@ -13,24 +13,25 @@ Ben Wilson is the author of the Postal Marines science fantasy series. He’s in
 
 * [Postal Marine Series](https://github.com/Merovex/postal-marines-series)
    * Write about 100 years from now, when Musk wins.
-   * _Bellicose_ ![status: Relaunching](https://img.shields.io/badge/status-Relaunch:Waiting%20Editor-firebrick.svg)
-   * _Luctation_ ![status: First Draft](https://img.shields.io/badge/status-First%20Draft:Working-firebrick.svg)
+   * _Bellicose_ ![status: Relaunching](https://img.shields.io/badge/status-Relaunch:Waiting%20Editor-Gold.svg)
+   * _Luctation_ ![status: First Draft](https://img.shields.io/badge/status-First%20Draft:Working-ForestGreen.svg)
    * _Imbroglio_ ![status: Planning](https://img.shields.io/badge/status-Planning-RosyBrown.svg)
-   * _Scintilla_ ![status: Editing](https://img.shields.io/badge/status-Revision:With%20Editor-green.svg)
+   * _Scintilla_ ![status: Editing](https://img.shields.io/badge/status-Revision:With%20Editor-ForestGreen.svg)
    * _Solace_
 * [Tears in the Rain](https://github.com/Merovex/tears) ![status: Planning](https://img.shields.io/badge/status-Planning-RosyBrown.svg)
 * Trolls in Space ![status: Idea](https://img.shields.io/badge/status-Idea-RosyBrown.svg)
 * [Strand Series](https://github.com/Merovex/stranded-series)
    * _Book 1 - Discovery_: ![status: First Draft](https://img.shields.io/badge/status-First%20Draft:Waiting-RosyBrown.svg)
 * Pigna Balkni ![status: Idea](https://img.shields.io/badge/status-Idea-RosyBrown.svg)
-* King David ![status: Idea](https://img.shields.io/badge/status-Idea-RosyBrown.svg)
+* King David   ![status: Idea](https://img.shields.io/badge/status-Idea-RosyBrown.svg)
 
 [Color Codes](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
 
-* ![status: Done](https://img.shields.io/badge/status-Done-Blue.svg)
-* ![status: Blocked](https://img.shields.io/badge/status-Blocked-firebrick.svg)
-* ![status: Waiting](https://img.shields.io/badge/status-Waiting-gold.svg)
-* ![status: Progressing](https://img.shields.io/badge/status-Progressing-forestgreen.svg)
+* ![status: Done](https://img.shields.io/badge/status-Done-Blue.svg) This project is in distribution with no futher work.
+* ![status: Blocked](https://img.shields.io/badge/status-Blocked-Firebrick.svg) This project has an impediment
+* ![status: Waiting](https://img.shields.io/badge/status-Waiting-Gold.svg) This project waits for a dependency to complete
+* ![status: Progressing](https://img.shields.io/badge/status-Progressing-ForestGreen.svg) This project is working as expected
+* ![status: Pending](https://img.shields.io/badge/status-Pending-RosyBrown.svg) This project is not moving, but it doesn't matter.
 
 ## Seinfeld Productivity - Don't Break the Chain
 
