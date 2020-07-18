@@ -27,7 +27,7 @@ Big one-year wall calendar. Place a Red-X when you complete your objective. Don'
 
 Need to add something like GH calendar here.
 
-![Contributions](./contributions.png)
+![Contributions](https://github.com/Merovex/Merovex/blob/master/contributions.png)
 
 <!--
 **Merovex/Merovex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
