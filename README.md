@@ -20,11 +20,11 @@ Ben Wilson is the author of the Postal Marines science fantasy series. He’s in
    * _Scintilla_ ![status: Editing](https://img.shields.io/badge/status-Revision:With%20Editor-ForestGreen.svg)
    * _Solace_ ![status: Synopsis](https://img.shields.io/badge/status-Synopsis-RosyBrown.svg)
 * [Tears in the Rain](https://github.com/Merovex/tears) ![status: Planning](https://img.shields.io/badge/status-Planning-RosyBrown.svg)
-* Trolls in Space ![status: Idea](https://img.shields.io/badge/status-Idea-RosyBrown.svg)
+* Trolls in Space ![status: Concept](https://img.shields.io/badge/status-Concept-RosyBrown.svg)
 * [Strand Series](https://github.com/Merovex/stranded-series)
    * _Book 1 - Discovery_: ![status: First Draft](https://img.shields.io/badge/status-First%20Draft:Waiting-RosyBrown.svg)
-* Pigna Balkni ![status: Idea](https://img.shields.io/badge/status-Idea-RosyBrown.svg)
-* King David   ![status: Idea](https://img.shields.io/badge/status-Idea-RosyBrown.svg)
+* Pigna Balkni ![status: Concept](https://img.shields.io/badge/status-Concept-RosyBrown.svg)
+* King David   ![status: Concept](https://img.shields.io/badge/status-Concept-RosyBrown.svg)
 
 [Color Codes](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
 
