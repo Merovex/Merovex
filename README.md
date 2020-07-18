@@ -5,12 +5,16 @@
 Ben Wilson is the author of the Postal Marines science fantasy series. He’s into history, human nature and religious studies. He served in the US Army through his 20s and got to meet some great people there. Now he does routine IT project management for customers who should know better. He pays the bills through their frustration. Ben lives in Northern Virginia with his wife, three of his four children, and two rabid attack cats. No, I did not sell the oldest off to the Core, as much as I might have liked to. He has a family of his own.
 [Learn more](https://benwilsonwrites.com/)
 
+## Key Repos
+
+* [Brainbook](https://github.com/Merovex/brain-book)
+
 ## Writing Projects
 
 * [Postal Marine Series](https://github.com/Merovex/postal-marines-series)
    * Write about 100 years from now, when Musk wins.
-   * _Bellicose_ ![status: Relaunching](https://img.shields.io/badge/status-Relaunch:Relaunching-red.svg)
-   * _Luctation_ ![status: First Draft](https://img.shields.io/badge/status-First%20Draft:Working-red.svg)
+   * _Bellicose_ ![status: Relaunching](https://img.shields.io/badge/status-Relaunch:Waiting%20Editor-firebrick.svg)
+   * _Luctation_ ![status: First Draft](https://img.shields.io/badge/status-First%20Draft:Working-firebrick.svg)
    * _Imbroglio_ ![status: Planning](https://img.shields.io/badge/status-Planning-RosyBrown.svg)
    * _Scintilla_ ![status: Editing](https://img.shields.io/badge/status-Revision:With%20Editor-green.svg)
    * _Solace_
@@ -20,6 +24,13 @@ Ben Wilson is the author of the Postal Marines science fantasy series. He’s in
    * _Book 1 - Discovery_: ![status: First Draft](https://img.shields.io/badge/status-First%20Draft:Waiting-RosyBrown.svg)
 * Pigna Balkni ![status: Idea](https://img.shields.io/badge/status-Idea-RosyBrown.svg)
 * King David ![status: Idea](https://img.shields.io/badge/status-Idea-RosyBrown.svg)
+
+[Color Codes](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
+
+* ![status: Done](https://img.shields.io/badge/status-Done-Blue.svg)
+* ![status: Blocked](https://img.shields.io/badge/status-Blocked-firebrick.svg)
+* ![status: Waiting](https://img.shields.io/badge/status-Waiting-gold.svg)
+* ![status: Progressing](https://img.shields.io/badge/status-Progressing-forestgreen.svg)
 
 ## Seinfeld Productivity - Don't Break the Chain
 
