@@ -8,7 +8,7 @@ Ben Wilson is the author of the Postal Marines science fantasy series. He’s in
 ## Pinned Private & Important Repos
 
 * [Brainbook](https://github.com/Merovex/brain-book)
-* [Author Website](https://github.com/Merovex/merovex.github.io)
+* [Author Website](https://github.com/Merovex/merovex.github.io) [[Online](https://benwilsonwrites.com/)]
 
 ## Writing Projects
 
