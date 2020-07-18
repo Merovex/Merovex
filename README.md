@@ -21,6 +21,14 @@ Ben Wilson is the author of the Postal Marines science fantasy series. He’s in
 * Pigna Balkni ![status: Idea](https://img.shields.io/badge/status-Idea-RosyBrown.svg)
 * King David ![status: Idea](https://img.shields.io/badge/status-Idea-RosyBrown.svg)
 
+## Seinfeld Productivity - Don't Break the Chain
+
+Big one-year wall calendar. Place a Red-X when you complete your objective. Don't break the chain.
+
+Need to add something like GH calendar here.
+
+![Contributions](./contributions.png)
+
 <!--
 **Merovex/Merovex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
