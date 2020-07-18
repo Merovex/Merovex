@@ -16,12 +16,15 @@ Ben Wilson is the author of the Postal Marines science fantasy series. He’s in
 
 In the 39th Century, Postal Marines safeguard communication and enforce peace within the Terran Core. Bophendez is a marine who fights a constant battle of wits against an AI embedded in his skull.
 
- * Write about 100 years from now, when Musk wins.
- * _Bellicose_ ![status: Relaunching](https://img.shields.io/badge/status-Relaunch:Waiting%20Editor-DarkOrange.svg) - Bophendze & Litovio adapt to the Postal Marines. They struggle to survive the Battle of Tanhusxio.
- * _Luctation_ ![status: First Draft](https://img.shields.io/badge/status-First%20Draft:Working-ForestGreen.svg) - Bophendze & Jonaldy seek to save the President's wife during the Ascention Crisis.
- * _Imbroglio_ ![status: Planning](https://img.shields.io/badge/status-Planning-RosyBrown.svg)
- * _Scintilla_ ![status: Editing](https://img.shields.io/badge/status-Revision:With%20Editor-ForestGreen.svg)
- * _Solace_ ![status: Synopsis](https://img.shields.io/badge/status-Synopsis-RosyBrown.svg)
+ <!-- * Write about 100 years from now, when Musk wins. -->
+
+| | |
+| - | - |
+| _Bellicose_ ![status: Relaunching](https://img.shields.io/badge/status-Relaunch:Waiting%20Editor-DarkOrange.svg) | Bophendze & Litovio adapt to the Postal Marines. They struggle to survive the Battle of Tanhusxio. |
+| _Luctation_ ![status: First Draft](https://img.shields.io/badge/status-First%20Draft:Working-ForestGreen.svg) | Bophendze & Jonaldy seek to save the President's wife during the Ascention Crisis. |
+| _Imbroglio_ ![status: Planning](https://img.shields.io/badge/status-Planning-RosyBrown.svg) |
+| _Scintilla_ ![status: Editing](https://img.shields.io/badge/status-Revision:With%20Editor-ForestGreen.svg) |
+| _Solace_ ![status: Synopsis](https://img.shields.io/badge/status-Synopsis-RosyBrown.svg) |
 
 ### [Strand Series](https://github.com/Merovex/stranded-series)
 
