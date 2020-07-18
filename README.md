@@ -20,10 +20,10 @@ In the 39th Century, Postal Marines safeguard communication and enforce peace wi
 
 | Title | Status | Tagline |
 | - | - | - |
-| _Bellicose_ | ![status: v2](https://img.shields.io/badge/status-v2+beta:Waiting%20Editor-DarkOrange.svg) | Bophendze & Litovio adapt to the Postal Marines. They struggle to survive the Battle of Tanhusxio. |
-| _Luctation_ | ![status: First Draft](https://img.shields.io/badge/status-v1+alpha:Working-ForestGreen.svg) | Bophendze & Jonaldy seek to save the President's wife during the Ascention Crisis. |
+| _Bellicose_ | ![status: v2](https://img.shields.io/badge/status-v2+𝜷:Waiting%20Editor-DarkOrange.svg) | Bophendze & Litovio adapt to the Postal Marines. They struggle to survive the Battle of Tanhusxio. |
+| _Luctation_ | ![status: First Draft](https://img.shields.io/badge/status-v1+α:Working-ForestGreen.svg) | Bophendze & Jonaldy seek to save the President's wife during the Ascention Crisis. |
 | _Imbroglio_ | ![status: Planning](https://img.shields.io/badge/status-Planning-RosyBrown.svg) |
-| _Scintilla_ | ![status: Editing](https://img.shields.io/badge/status-v2+beta:%40Editor-ForestGreen.svg) |
+| _Scintilla_ | ![status: Editing](https://img.shields.io/badge/status-v2+𝜷:%40Editor-ForestGreen.svg) |
 | _Solace_ | ![status: Synopsis](https://img.shields.io/badge/status-Synopsis-RosyBrown.svg) |
 
 ### [Strand Series](https://github.com/Merovex/stranded-series)
