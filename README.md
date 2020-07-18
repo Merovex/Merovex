@@ -20,11 +20,11 @@ In the 39th Century, Postal Marines safeguard communication and enforce peace wi
 
 | Title | Status | Tagline |
 | - | - | - |
-| _Bellicose_ | ![status: v2](https://img.shields.io/badge/status-v2+β:Waiting%20Editor-DarkOrange.svg) | Bophendze & Litovio adapt to the Postal Marines. They struggle to survive the Battle of Tanhusxio. |
-| _Luctation_ | ![status: First Draft](https://img.shields.io/badge/status-v1+α:Working-ForestGreen.svg) | Bophendze & Jonaldy seek to save the President's wife during the Ascension Crisis. |
-| _Imbroglio_ | ![status: Planning](https://img.shields.io/badge/status-Planning-RosyBrown.svg) |
-| _Scintilla_ | ![status: Editing](https://img.shields.io/badge/status-v2+β:%40Editor-ForestGreen.svg) |
-| _Solace_ | ![status: Synopsis](https://img.shields.io/badge/status-Synopsis-RosyBrown.svg) |
+| _Bellicose_ | ![badge](https://img.shields.io/badge/status-v2+β:W4%20Editor-DarkOrange.svg) | Bophendze & Litovio adapt to the Postal Marines. They struggle to survive the Battle of Tanhusxio. |
+| _Luctation_ | ![badge](https://img.shields.io/badge/status-v1+α:Working-ForestGreen.svg) | Bophendze & Jonaldy seek to save the President's wife during the Ascension Crisis. |
+| _Imbroglio_ | ![badge](https://img.shields.io/badge/status-Planning-RosyBrown.svg) |
+| _Scintilla_ | ![badge](https://img.shields.io/badge/status-v2+β:%40Editor-ForestGreen.svg) |
+| _Solace_ | ![badge](https://img.shields.io/badge/status-Synopsis-RosyBrown.svg) |
 
 ### [Strand Series](https://github.com/Merovex/stranded-series)
 
@@ -32,22 +32,22 @@ Stranded is a steampunk novella series where 18th Century British-Americans disc
 
 | Title | Status | Tagline |
 | - | - | - |
-| _Book 1 - Discovery_  |  ![status: First Draft](https://img.shields.io/badge/status-v1+α:Waiting-RosyBrown.svg) |   |
+| _Book 1 - Discovery_  |  ![badge](https://img.shields.io/badge/status-v1+α:Hold-RosyBrown.svg) |   |
 
 ### Other Book / Series Ideas
 
-* [Tears in the Rain](https://github.com/Merovex/tears) ![status: Planning](https://img.shields.io/badge/status-Planning-RosyBrown.svg)
-* Trolls in Space ![status: Concept](https://img.shields.io/badge/status-Concept-RosyBrown.svg)
-* Pigna Balkni ![status: Concept](https://img.shields.io/badge/status-Concept-RosyBrown.svg)
-* King David   ![status: Concept](https://img.shields.io/badge/status-Concept-RosyBrown.svg)
+* [Tears in the Rain](https://github.com/Merovex/tears) ![badge](https://img.shields.io/badge/status-Planning-RosyBrown.svg)
+* Trolls in Space ![badge](https://img.shields.io/badge/status-Concept-RosyBrown.svg)
+* Pigna Balkni ![badge](https://img.shields.io/badge/status-Concept-RosyBrown.svg)
+* King David   ![badge](https://img.shields.io/badge/status-Concept-RosyBrown.svg)
 
 ### [Chroma Key](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
 
-* ![status: Done](https://img.shields.io/badge/status-Done-Blue.svg) This project is in distribution with no futher work.
-* ![status: Blocked](https://img.shields.io/badge/status-Blocked-Firebrick.svg) This project has an impediment
-* ![status: Waiting](https://img.shields.io/badge/status-Waiting-DarkOrange.svg) This project waits for a dependency to complete
-* ![status: Progressing](https://img.shields.io/badge/status-Progressing-ForestGreen.svg) This project is working as expected
-* ![status: Pending](https://img.shields.io/badge/status-Pending-RosyBrown.svg) This project is not moving, but it doesn't matter.
+* ![badge](https://img.shields.io/badge/status-Done-Blue.svg) This project is in distribution with no futher work.
+* ![badge](https://img.shields.io/badge/status-Blocked-Firebrick.svg) This project has an impediment
+* ![badge](https://img.shields.io/badge/status-Waiting-DarkOrange.svg) This project waits for a dependency to complete
+* ![badge](https://img.shields.io/badge/status-Progressing-ForestGreen.svg) This project is working as expected
+* ![badge](https://img.shields.io/badge/status-Pending-RosyBrown.svg) This project is not moving, but it doesn't matter.
 
 ## Toolchain
 
@@ -59,7 +59,7 @@ Big one-year wall calendar. Place a Red-X when you complete your objective. Don'
 
 Need to add something like the Github progress calendar here.
 
-![Contributions](https://github.com/Merovex/Merovex/blob/master/contributions.png)
+![Ben's Contributions](https://github.com/Merovex/Merovex/blob/master/contributions.png)
 
 <!--
 **Merovex/Merovex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
