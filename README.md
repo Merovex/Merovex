@@ -12,17 +12,22 @@ Ben Wilson is the author of the Postal Marines science fantasy series. He’s in
 
 ## Writing Projects
 
-* [Postal Marine Series](https://github.com/Merovex/postal-marines-series)
-   * Write about 100 years from now, when Musk wins.
-   * _Bellicose_ ![status: Relaunching](https://img.shields.io/badge/status-Relaunch:Waiting%20Editor-DarkOrange.svg)
-   * _Luctation_ ![status: First Draft](https://img.shields.io/badge/status-First%20Draft:Working-ForestGreen.svg)
-   * _Imbroglio_ ![status: Planning](https://img.shields.io/badge/status-Planning-RosyBrown.svg)
-   * _Scintilla_ ![status: Editing](https://img.shields.io/badge/status-Revision:With%20Editor-ForestGreen.svg)
-   * _Solace_ ![status: Synopsis](https://img.shields.io/badge/status-Synopsis-RosyBrown.svg)
+### [Postal Marine Series](https://github.com/Merovex/postal-marines-series)
+
+ * Write about 100 years from now, when Musk wins.
+ * _Bellicose_ ![status: Relaunching](https://img.shields.io/badge/status-Relaunch:Waiting%20Editor-DarkOrange.svg)
+ * _Luctation_ ![status: First Draft](https://img.shields.io/badge/status-First%20Draft:Working-ForestGreen.svg)
+ * _Imbroglio_ ![status: Planning](https://img.shields.io/badge/status-Planning-RosyBrown.svg)
+ * _Scintilla_ ![status: Editing](https://img.shields.io/badge/status-Revision:With%20Editor-ForestGreen.svg)
+ * _Solace_ ![status: Synopsis](https://img.shields.io/badge/status-Synopsis-RosyBrown.svg)
+
+### [Strand Series](https://github.com/Merovex/stranded-series)
+  * _Book 1 - Discovery_: ![status: First Draft](https://img.shields.io/badge/status-First%20Draft:Waiting-RosyBrown.svg)
+
+### Other Book / Series Ideas
+
 * [Tears in the Rain](https://github.com/Merovex/tears) ![status: Planning](https://img.shields.io/badge/status-Planning-RosyBrown.svg)
 * Trolls in Space ![status: Concept](https://img.shields.io/badge/status-Concept-RosyBrown.svg)
-* [Strand Series](https://github.com/Merovex/stranded-series)
-   * _Book 1 - Discovery_: ![status: First Draft](https://img.shields.io/badge/status-First%20Draft:Waiting-RosyBrown.svg)
 * Pigna Balkni ![status: Concept](https://img.shields.io/badge/status-Concept-RosyBrown.svg)
 * King David   ![status: Concept](https://img.shields.io/badge/status-Concept-RosyBrown.svg)
 
