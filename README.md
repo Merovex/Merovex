@@ -36,10 +36,12 @@ Stranded is a steampunk novella series where 18th Century British-Americans disc
 
 ### Other Book / Series Ideas
 
-* [Tears in the Rain](https://github.com/Merovex/tears) ![badge](https://img.shields.io/badge/status-Planning-RosyBrown.svg)
-* Trolls in Space ![badge](https://img.shields.io/badge/status-Concept-RosyBrown.svg)
-* Pigna Balkni ![badge](https://img.shields.io/badge/status-Concept-RosyBrown.svg)
-* King David   ![badge](https://img.shields.io/badge/status-Concept-RosyBrown.svg)
+| Title | Status | Tagline |
+| - | - | - |
+|[Tears in the Rain](https://github.com/Merovex/tears) | ![badge](https://img.shields.io/badge/status-Planning-RosyBrown.svg) | |
+|Trolls in Space | ![badge](https://img.shields.io/badge/status-Concept-RosyBrown.svg) | |
+|Pigna Balkni | ![badge](https://img.shields.io/badge/status-Concept-RosyBrown.svg) | |
+|King David   | ![badge](https://img.shields.io/badge/status-Concept-RosyBrown.svg) | |
 
 ### [Chroma Key](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
 
