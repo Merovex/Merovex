@@ -10,6 +10,10 @@ Ben Wilson is the author of the Postal Marines science fantasy series. He’s in
 * [Brainbook](https://github.com/Merovex/brain-book)
 * [Author Website](https://github.com/Merovex/merovex.github.io) [[site](https://benwilsonwrites.com/)]
 
+## Toolchain
+
+This is where I talk about the toolchain I use to go from ideation to distribution as a former developer. I'll link to articles as they come.
+
 ## Writing Projects
 
 ### [Postal Marines Series](https://github.com/Merovex/postal-marines-series)
@@ -50,10 +54,6 @@ Stranded is a steampunk novella series where 18th Century British-Americans disc
 * ![badge](https://img.shields.io/badge/status-Waiting-DarkOrange.svg) This project waits for a dependency to complete
 * ![badge](https://img.shields.io/badge/status-Progressing-ForestGreen.svg) This project is working as expected
 * ![badge](https://img.shields.io/badge/status-Pending-RosyBrown.svg) This project is not moving, but it doesn't matter.
-
-## Toolchain
-
-This is where I talk about the toolchain I use to go from ideation to distribution as a former developer. I'll link to articles as they come.
 
 ## Seinfeld Productivity - Don't Break the Chain
 
