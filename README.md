@@ -18,7 +18,7 @@ Ben Wilson is the author of the Postal Marines science fantasy series. He’s in
    * _Luctation_ ![status: First Draft](https://img.shields.io/badge/status-First%20Draft:Working-ForestGreen.svg)
    * _Imbroglio_ ![status: Planning](https://img.shields.io/badge/status-Planning-RosyBrown.svg)
    * _Scintilla_ ![status: Editing](https://img.shields.io/badge/status-Revision:With%20Editor-ForestGreen.svg)
-   * _Solace_
+   * _Solace_ ![status: Synopsis](https://img.shields.io/badge/status-Synopsis-RosyBrown.svg)
 * [Tears in the Rain](https://github.com/Merovex/tears) ![status: Planning](https://img.shields.io/badge/status-Planning-RosyBrown.svg)
 * Trolls in Space ![status: Idea](https://img.shields.io/badge/status-Idea-RosyBrown.svg)
 * [Strand Series](https://github.com/Merovex/stranded-series)
