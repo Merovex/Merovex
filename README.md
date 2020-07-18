@@ -21,7 +21,7 @@ In the 39th Century, Postal Marines safeguard communication and enforce peace wi
 | Title | Status | Tagline |
 | - | - | - |
 | _Bellicose_ | ![status: v2](https://img.shields.io/badge/status-v2+β:Waiting%20Editor-DarkOrange.svg) | Bophendze & Litovio adapt to the Postal Marines. They struggle to survive the Battle of Tanhusxio. |
-| _Luctation_ | ![status: First Draft](https://img.shields.io/badge/status-v1+α:Working-ForestGreen.svg) | Bophendze & Jonaldy seek to save the President's wife during the Ascention Crisis. |
+| _Luctation_ | ![status: First Draft](https://img.shields.io/badge/status-v1+α:Working-ForestGreen.svg) | Bophendze & Jonaldy seek to save the President's wife during the Ascension Crisis. |
 | _Imbroglio_ | ![status: Planning](https://img.shields.io/badge/status-Planning-RosyBrown.svg) |
 | _Scintilla_ | ![status: Editing](https://img.shields.io/badge/status-v2+β:%40Editor-ForestGreen.svg) |
 | _Solace_ | ![status: Synopsis](https://img.shields.io/badge/status-Synopsis-RosyBrown.svg) |
@@ -30,7 +30,9 @@ In the 39th Century, Postal Marines safeguard communication and enforce peace wi
 
 Stranded is a steampunk novella series where 18th Century British-Americans discovered advanced technology in the Ohio Territory at the end of the Seven Year's War.
 
-  * _Book 1 - Discovery_: ![status: First Draft](https://img.shields.io/badge/status-First%20Draft:Waiting-RosyBrown.svg)
+| Title | Status | Tagline |
+| - | - | - |
+| _Book 1 - Discovery_  |  ![status: First Draft](https://img.shields.io/badge/status-v1+α:Waiting-RosyBrown.svg) |   |
 
 ### Other Book / Series Ideas
 
