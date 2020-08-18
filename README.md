@@ -16,7 +16,7 @@ This is where I talk about the toolchain I use to go from ideation to distributi
 
 ## Writing Projects
 
-### [Postal Marines Series](https://github.com/Merovex/postal-marines-series)
+### [Postal Marines Series](https://github.com/merovex-press/postal-marines-series)
 
 In the 39th Century, Postal Marines safeguard communication and enforce peace within the Terran Core. Bophendez is a marine who fights a constant battle of wits against an AI embedded in his skull.
 
@@ -30,7 +30,7 @@ In the 39th Century, Postal Marines safeguard communication and enforce peace wi
 | _Scintilla_ | ![badge](https://img.shields.io/badge/status-v2+β:%40Editor-ForestGreen.svg) |
 | _Solace_ | ![badge](https://img.shields.io/badge/status-Synopsis-RosyBrown.svg) |
 
-### [Strand Series](https://github.com/Merovex/stranded-series)
+### [Strand Series](https://github.com/merovex-press/stranded-series)
 
 Stranded is a steampunk novella series where 18th Century British-Americans discovered advanced technology in the Ohio Territory at the end of the Seven Year's War.
 
