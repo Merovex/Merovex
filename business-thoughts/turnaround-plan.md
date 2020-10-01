@@ -6,7 +6,7 @@ So you've been hired/promoted/brought out of retirement to become CEO of and tur
 
 Here's your turnaround plan in 9 easy steps.
 
-**Step 1**: *Go dark and execute*.
+## Step 1: Go dark and execute*
 
 Your predecessor in the CEO job inevitably spent way too much time explaining to reporters, investors, analysts, and anyone else who would listen (that [cute new Wall Street videoblogger](http://wallstrip.cbsnews.com/theshow/)?) why your company was actually doing just fine and how brighter times were just around the corner as your competitive position deteriorated and your financial results fell apart, and nobody believed it anyway.
 
@@ -16,13 +16,13 @@ So go dark, focus on the business, and don't talk publicly for at least six mont
 
 [Mark "Who?" Hurd](http://www.hp.com/hpinfo/execteam/bios/hurd.html) sets the gold standard here.
 
-**Step 2**: *But first, throw your predecessor completely under the bus.*
+## Step 2: But first, throw your predecessor completely under the bus.
 
 Can't forget this one! Tell Wall Street that your predecessor was such an incredibly dim bulb that in retrospect you can't even understand how he got past security and into the building, much less was picked to be CEO. He completely fouled the financials and sabotaged the business and as a result, earnings for the next several quarters are going to come in *way* below expectations.
 
 The fun part about this one is that your stock won't even drop because everyone has already figured that out.
 
-**Step 3**: *Identify the 3-5 things that are working surprisingly well in your business, and double down on those.*
+## Step 3: Identify the 3-5 things that are working surprisingly well in your business, and double down on those.
 
 Any big company, no matter how moribund and poorly run, has a number of products and projects that are going better than expected -- and usually come as a complete surprise.
 
@@ -30,7 +30,7 @@ Drawing on [Peter Drucker's classic admonition](http://www.design.caltech.edu/er
 
 Promote their general managers, elevate their business units in the organization, give them more funding, and get out of the way.
 
-**Step 4**: *Identify the 3-5 things that are consuming a lot of money and time and yet going nowhere, and kill those.*
+## Step 4: Identify the 3-5 things that are consuming a lot of money and time and yet going nowhere, and kill those.
 
 A good starting point is your predecessor's [pet projects](http://news.zdnet.com/2100-9584_22-5137473.html) -- line 'em up and shoot 'em.
 
@@ -38,7 +38,7 @@ Frankly, they don't even have to be consuming that much money. They're almost ce
 
 You can also consider this a warmup exercise for Step 5.
 
-**Step 5**: *Lay off a third of the workforce.*
+## Step 5: Lay off a third of the workforce.
 
 Here's why:
 
@@ -52,7 +52,7 @@ Grit your teeth, offer the most generous severance and assistance packages you p
 
 Your ability to continue to employ the other two-thirds of your people is at stake.
 
-**Step 6**: *Reduce layers, then promote up and comers and put them clearly in charge.*
+## Step 6: Reduce layers, then promote up and comers and put them clearly in charge.
 
 A company that requires a turnaround has, in all likelihood, too many layers of management. Nuke as many of them as you can.
 
@@ -62,11 +62,11 @@ As CEO, you should only have at most one executive between you and these 20 or 3
 
 If you don't know who those top 20 or 30 up and comers are, if you don't promote them, if you don't put them clearly in charge of the things that matter, or if you have more than one layer of management between you and them when you're done, you're probably doomed.
 
-**Step 7**: *Figure out the single most important thing your company has to win at, and put your single best person in charge of winning at it.*
+## Step 7: Figure out the single most important thing your company has to win at, and put your single best person in charge of winning at it.
 
 'Nuff said.
 
-**Step 8**: *Look at the market, figure out 3-5 new areas in which your company is not currently playing or winning, but are clearly going to grow a lot -- and acquire the best company in each of those areas.*
+## Step 8: Look at the market, figure out 3-5 new areas in which your company is not currently playing or winning, but are clearly going to grow a lot-- and acquire the best company in each of those areas.*
 
 Here you're looking for growth -- for products, trends, perhaps phenomena outside but adjacent to your current products and markets, that are going to grow a lot in the next few years.
 
@@ -76,7 +76,7 @@ When you do acquire, you're going to have to pay up, because new things that are
 
 So here's hoping you did a great job at Step 5.
 
-**Step 9**: *In six months, relaunch the company with a single, crisp, coherent message and strategy.*
+## Step 9: In six months, relaunch the company with a single, crisp, coherent message and strategy.
 
 Then go dark again and go right back to work.
 
@@ -86,6 +86,6 @@ To quote the great Tommy Lasorda: "This fucking job ain't that fucking easy."
 
 **Appendix for media companies only:**
 
-**Step 10**: *For God's sake, stop suing your customers.*
+## Step 10: For God's sake, stop suing your customers.
 
 This article was written by [Marc Andreessen](http://web.archive.org/web/20100615060031/http://en.wikipedia.org/wiki/Marc_Andreessen) and originally published on his blog, [blog.pmarca.com](http://web.archive.org/web/20100615060031/http://blog.pmarca.com/). These articles are probably some of the best writings on business and startups anywhere but they were taken down years ago. They live here now in this static archive.
