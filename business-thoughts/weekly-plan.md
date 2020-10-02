@@ -17,7 +17,7 @@ P0..P2 [How to Prioritize During Development](https://www.bluelabellabs.com/blog
 
 * General
    * Todo - containing all ‘must do’ (P0, P1) commitments that need to be prioritized.
-   * Today - Tasks I need to get done today
+   * Today - Tasks we need to get done today
    * Watch - containing everything that has a blocker stopping you from doing it right now, but that you need to keep tabs on.
    * Later - containing  everything that you might want to do ‘later’ but isn’t a priority (P2).
 
@@ -28,7 +28,8 @@ P0..P2 [How to Prioritize During Development](https://www.bluelabellabs.com/blog
    - Meetings, list all meetings with brief summary
    - Projects, 
 2. Meetings are Issues
-   - Actions identified by issue ID & title in the notes "#xx - WHO - DUE - WHAT"
+   - Actions identified by issue ID & title in the notes 
+   - "#xx - WHO - DUE - WHAT"
 2. Actions Issues
    - Tag `waiting` if someone owes you
    - If need status, etc. add as TODO
