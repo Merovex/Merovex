@@ -1,7 +1,5 @@
 # Strength Training
 
-From: #note-1
-
 I've spent the last year investigating various ways to improve my overall level of strength and general fitness.
 
 By way of context: I'm an entrepreneur / researcher / author, not an athlete. I'm not training for competition, don't have a ton of time to spend at the gym, and I don't want to look like a bodybuilder.
@@ -18,9 +16,9 @@ Here's what I learned…
 
 ## Pumping Iron
 
-I started by lifting freeweights, which I haven't done since competing in high school Track & Field. [1](#note-1) Weightlifting has never been my favorite form of physical exertion, mostly because [delayed-onset muscle soreness](https://en.wikipedia.org/wiki/Delayed_onset_muscle_soreness) (DOMS) is one of my least favorite sensations in the world.
+I started by lifting freeweights, which I haven't done since competing in high school Track & Field.[1](#note-1) Weightlifting has never been my favorite form of physical exertion, mostly because [delayed-onset muscle soreness](https://en.wikipedia.org/wiki/Delayed_onset_muscle_soreness) (DOMS) is one of my least favorite sensations in the world.
 
-That said, there's a ton of evidence that freeweights make your entire body stronger in ways that matter a great deal to overall health and longevity: your muscles get stronger, but the increased load on your bones and connective tissues encourages them to get stronger as well. [2](#note-2)
+That said, there's a ton of evidence that freeweights make your entire body stronger in ways that matter a great deal to overall health and longevity: your muscles get stronger, but the increased load on your bones and connective tissues encourages them to get stronger as well.[2](#note-2)
 
 After three months of lifting freeweights, I noticed five significant problems:
 
@@ -49,7 +47,7 @@ Here's Pavel's "S&S" program in its entirety:
 
 There's slightly more to the program—you have to learn proper form [3](#note-3) for the movements—but that's the gist of it.
 
-Kettlebells have a *lot* going for them:
+Kettlebells have a *lot* going for them:[4](#note-4)
 
 - I found the movements much easier to learn than freeweights, and they feel more comfortable and safer to execute.
 - The movements train all major muscle groups and encourage the entire body to move in coordination, working accessory muscles and avoiding isolation of any one muscle at a time.
@@ -58,11 +56,9 @@ Kettlebells have a *lot* going for them:
 - Swings and TGUs also produce significant cardiovascular load, with average heart rates comparable to running, so you get cardio benefits at the same time as strength training.
 - Kettlebells are inexpensive, relatively small, easy to store, and require no maintenance. I could've easily kept a set of kettlebells in my tiny NYC studio apartment. (A rack of freeweights, not so much.)
 
-    [4](#note-4)
-
 I started training with a 12kg (~26lbs) kettlebell. After a few months of training, I'm now completing the full S&S protocol with a 20kg (44lbs) kettlebell without difficulty, and I'm in the best shape of my adult life.
 
-I usually train with a heart rate monitor [5](#note-2), which I've found very useful: after a set of swings, I rest until my heart rate slows to 120-130 beats per minute, at which point it's time to do another set. Beyond that, I'm keeping a simple log of workouts to keep track of progress, and that's it.
+I usually train with a heart rate monitor[5](#note-2), which I've found very useful: after a set of swings, I rest until my heart rate slows to 120-130 beats per minute, at which point it's time to do another set. Beyond that, I'm keeping a simple log of workouts to keep track of progress, and that's it.
 
 I'm thrilled with my progress so far, and, in contrast to freeweights, can see myself continuing to use kettlebells to stay strong well into old age.
 
