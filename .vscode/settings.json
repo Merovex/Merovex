@@ -5,7 +5,7 @@
   "editor.wordWrap": "wordWrapColumn",
   "editor.mouseWheelZoom": false,
   "editor.tabCompletion": "on",
-  "editor.fontFamily": "Literata, Cambria, Georgia, 'Noto Serif', 'Times New Roman', Times, serif",
+  "editor.fontFamily": "Fira Code, Literata, Cambria, Georgia, 'Noto Serif', 'Times New Roman', Times, serif",
   "editor.fontSize": 18,
   "editor.fontLigatures": true,
   "editor.fontWeight": "400",

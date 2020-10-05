@@ -1,6 +1,6 @@
 # Strength Training
 
-From: https://joshkaufman.net/strength-training-for-non-athletes/
+From: #note-1
 
 I've spent the last year investigating various ways to improve my overall level of strength and general fitness.
 
@@ -18,9 +18,9 @@ Here's what I learned…
 
 ## Pumping Iron
 
-I started by lifting freeweights, which I haven't done since competing in high school Track & Field. [1](https://joshkaufman.net/strength-training-for-non-athletes/) Weightlifting has never been my favorite form of physical exertion, mostly because [delayed-onset muscle soreness](https://en.wikipedia.org/wiki/Delayed_onset_muscle_soreness) (DOMS) is one of my least favorite sensations in the world.
+I started by lifting freeweights, which I haven't done since competing in high school Track & Field. [1](#note-1) Weightlifting has never been my favorite form of physical exertion, mostly because [delayed-onset muscle soreness](https://en.wikipedia.org/wiki/Delayed_onset_muscle_soreness) (DOMS) is one of my least favorite sensations in the world.
 
-That said, there's a ton of evidence that freeweights make your entire body stronger in ways that matter a great deal to overall health and longevity: your muscles get stronger, but the increased load on your bones and connective tissues encourages them to get stronger as well. [2](https://joshkaufman.net/strength-training-for-non-athletes/)
+That said, there's a ton of evidence that freeweights make your entire body stronger in ways that matter a great deal to overall health and longevity: your muscles get stronger, but the increased load on your bones and connective tissues encourages them to get stronger as well. [2](#note-2)
 
 After three months of lifting freeweights, I noticed five significant problems:
 
@@ -38,7 +38,7 @@ James Todd, a former client turned close friend, encouraged me to investigate tr
 
 One of the many interesting things about kettlebells is that they're *ballistic*: the load placed on your bones and muscles is much higher than the listed static weight if you swing it. That means you can do serious training with much smaller weights.
 
-I started with the simplest and most well-known beginner kettlebell training protocol: [Pavel Tsatsouline's "Simple and Sinister"](https://joshkaufman.net/book/pavel-simple-and-sinister/) program. It's an impressive act of synthesis: a short daily routine that manages to pack a full body workout into *two* primary exercises, which are backed by decades of research and practical experience, and delivered with a generous side of wry Russian humor.
+I started with the simplest and most well-known beginner kettlebell training protocol: Pavel Tsatsouline's _Simple and Sinister_ program. It's an impressive act of synthesis: a short daily routine that manages to pack a full body workout into *two* primary exercises, which are backed by decades of research and practical experience, and delivered with a generous side of wry Russian humor.
 
 Here's Pavel's "S&S" program in its entirety:
 
@@ -47,7 +47,7 @@ Here's Pavel's "S&S" program in its entirety:
 - 5 sets of "Turkish Get Ups" (TGUs), where a set equals one TGU on each side.
 - Repeat daily; move up in weight when it starts to feel easy and you can complete the entire protocol in less than 20 minutes.
 
-There's slightly more to the program—you have to learn proper form [3](https://joshkaufman.net/strength-training-for-non-athletes/) for the movements—but that's the gist of it.
+There's slightly more to the program—you have to learn proper form [3](#note-3) for the movements—but that's the gist of it.
 
 Kettlebells have a *lot* going for them:
 
@@ -58,11 +58,11 @@ Kettlebells have a *lot* going for them:
 - Swings and TGUs also produce significant cardiovascular load, with average heart rates comparable to running, so you get cardio benefits at the same time as strength training.
 - Kettlebells are inexpensive, relatively small, easy to store, and require no maintenance. I could've easily kept a set of kettlebells in my tiny NYC studio apartment. (A rack of freeweights, not so much.)
 
-    [4](https://joshkaufman.net/strength-training-for-non-athletes/)
+    [4](#note-4)
 
 I started training with a 12kg (~26lbs) kettlebell. After a few months of training, I'm now completing the full S&S protocol with a 20kg (44lbs) kettlebell without difficulty, and I'm in the best shape of my adult life.
 
-I usually train with a heart rate monitor [5](https://joshkaufman.net/strength-training-for-non-athletes/), which I've found very useful: after a set of swings, I rest until my heart rate slows to 120-130 beats per minute, at which point it's time to do another set. Beyond that, I'm keeping a simple log of workouts to keep track of progress, and that's it.
+I usually train with a heart rate monitor [5](#note-2), which I've found very useful: after a set of swings, I rest until my heart rate slows to 120-130 beats per minute, at which point it's time to do another set. Beyond that, I'm keeping a simple log of workouts to keep track of progress, and that's it.
 
 I'm thrilled with my progress so far, and, in contrast to freeweights, can see myself continuing to use kettlebells to stay strong well into old age.
 
@@ -70,12 +70,12 @@ If you're not doing any sort of strength training, I highly recommend looking in
 
 ## Footnotes
 
-I used the Stronglifts 5x5 program, which I highly recommend if you're exploring freeweights for the first time: it's a solid program that teaches you common lifts and good form. 
+<a name='note-1'></a>I used the Stronglifts 5x5 program, which I highly recommend if you're exploring freeweights for the first time: it's a solid program that teaches you common lifts and good form. 
 
-Note that freeweights are ideal - it's best to avoid the weight machines common in gyms and fitness centers, since isolating muscle groups and restricting range of motion does not adequately develop the accessory muscles used in non-restricted movement. For more on this, see Starting Strength by Mark Rippetoe.
+<a name='note-2'></a>Note that freeweights are ideal - it's best to avoid the weight machines common in gyms and fitness centers, since isolating muscle groups and restricting range of motion does not adequately develop the accessory muscles used in non-restricted movement. For more on this, see Starting Strength by Mark Rippetoe.
 
-Here's a fantastic kettlebell form video that'll give you a good idea of what the primary movements look like.
+<a name='note-3'></a>Here's a fantastic kettlebell form video that'll give you a good idea of what the primary movements look like.
 
-I purchased a set of Metrixx Elite Precision E-Coat Kettlebells, which are excellent. A basic set will be 1-2 bells for weights that you're actively training, probably starting in the 12kg range. I ended up getting a broader set: 8kg, 12kg, 16kg, 20kg, 24kg, and 32kg, which will last me quite a while.
+<a name='note-4'></a>I purchased a set of Metrixx Elite Precision E-Coat Kettlebells, which are excellent. A basic set will be 1-2 bells for weights that you're actively training, probably starting in the 12kg range. I ended up getting a broader set: 8kg, 12kg, 16kg, 20kg, 24kg, and 32kg, which will last me quite a while.
 
-At present, I'm using a Polar H7 Bluetooth heart rate monitor alongside Polar's iPhone application, which I like a lot. Polar also has heart rate monitors like the FT7 that display data via a dedicated watch, which work well if you want to keep things simple.
+<a name='note-5'></a>At present, I'm using a Polar H7 Bluetooth heart rate monitor alongside Polar's iPhone application, which I like a lot. Polar also has heart rate monitors like the FT7 that display data via a dedicated watch, which work well if you want to keep things simple.
