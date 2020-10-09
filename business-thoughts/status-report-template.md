@@ -2,9 +2,9 @@
 
 ## Working
 
-* Project 1
+* Project 1 - POC
    * Activity
-* Project 4
+* Project 4 - POC
    * Activity
 
 ## Projects
