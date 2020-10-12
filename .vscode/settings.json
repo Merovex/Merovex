@@ -2,7 +2,7 @@
   "extensions.showRecommendationsOnlyOnDemand": true,
   "editor.tabSize": 2,
   "editor.renderWhitespace": "boundary",
-  "editor.wordWrap": "wordWrapColumn",
+  "editor.wordWrap": "bounded",
   "editor.mouseWheelZoom": false,
   "editor.tabCompletion": "on",
   "editor.fontFamily": "Fira Code, Literata, Cambria, Georgia, 'Noto Serif', 'Times New Roman', Times, serif",
@@ -17,4 +17,11 @@
   "zenMode.hideLineNumbers": false,
   "zenMode.hideStatusBar": false,
   "merge-conflict.autoNavigateNextConflict.enabled": true,
+  "[markdown]": {
+    "editor.lineHeight": 30,
+    "editor.fontSize": 18,
+    "editor.fontFamily": "Fira Code, Literata, Cambria, Georgia, 'Noto Serif', 'Times New Roman', Times, serif",
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 80,
+  },
 }
