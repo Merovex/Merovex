@@ -12,7 +12,7 @@ Ben Wilson is the author of the Postal Marines science fantasy series. He’s in
 
 ## Project Boards
 
-* [Author Site](https://github.com/merovex-press/author-site-rails/projects)
+* [Author Site](https://github.com/merovex-press/author-site-rails/projects/1)
 
 ## Toolchain
 
