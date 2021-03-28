@@ -10,6 +10,10 @@ Ben Wilson is the author of the Postal Marines science fantasy series. He’s in
 * [Brainbook](https://github.com/Merovex/brain-book)
 * [Author Website](https://github.com/Merovex/merovex.github.io) [[site](https://benwilsonwrites.com/)]
 
+## Project Boards
+
+* [Author Site](https://github.com/merovex-press/author-site-rails/projects)
+
 ## Toolchain
 
 This is where I talk about the toolchain I use to go from ideation to distribution as a former developer. I'll link to articles as they come.
