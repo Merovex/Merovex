@@ -18,7 +18,7 @@ Ben Wilson is the author of the Postal Marines science fantasy series. He’s in
 
 This is where I talk about the toolchain I use to go from ideation to distribution as a former developer. I'll link to articles as they come.
 
-* [My early articles](https://benwilsonwrites.com/posts/tags/#github-as-an-author)
+* [My early articles
    * Cleaning my Closet
    * Writing on Github: Organizing the Book
    * Introducing Korektu
