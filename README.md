@@ -3,7 +3,7 @@
 ## About Ben
 
 Ben Wilson is the author of the Postal Marines science fantasy series and upcoming Strand series. He’s into history, human nature and religious studies. He served in the US Army through his 20s and got to meet some great people there. Now he does routine IT project management for customers who should know better. He pays the bills through their frustration. Ben lives in Northern Virginia with his wife, three of his four children, and two rabid attack cats. No, I did not sell the oldest off to the Core, as much as I might have liked to. He has a family of his own.
-[Learn more](https://benwilsonwrites.com/)
+[Learn more](https://benwilsion.io/)
 
 ## Pinned Private & Important Repos
 
