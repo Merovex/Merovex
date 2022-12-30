@@ -8,11 +8,10 @@ Ben Wilson is the author of the Postal Marines science fantasy series and upcomi
 ## Pinned Private & Important Repos
 
 * [Brainbook](https://github.com/Merovex/brain-book)
-* [Author Website](https://github.com/merovex-press/merovex.com) [[site](https://benwilsonwrites.com/)]
+* [Author Website](https://benwilson.io)
 
 ## Project Boards
 
-* [Author Site](https://github.com/merovex-press/author-site-rails/projects/1)
 
 ## Toolchain
 
@@ -30,27 +29,7 @@ This is where I talk about the toolchain I use to go from ideation to distributi
 
 ## Writing Projects
 
-### [Postal Marines Series](https://github.com/merovex-press/postal-marines-series)
-
-In the 39th Century, Postal Marines safeguard communication and enforce peace within the Terran Core. Bophendez is a marine who fights a constant battle of wits against an AI embedded in his skull.
-
- <!-- * Write about 100 years from now, when Musk wins. -->
-
-| Title | Status | Tagline |
-| - | - | - |
-| _Bellicose_ | ![badge](https://img.shields.io/badge/status-v2+β:W4%20Editor-DarkOrange.svg) | Bophendze & Litovio adapt to the Postal Marines. They struggle to survive the Battle of Tanhusxio. |
-| _Luctation_ | ![badge](https://img.shields.io/badge/status-v1+α:Working-ForestGreen.svg) | Bophendze & Jonaldy seek to save the President's wife during the Ascension Crisis. |
-| _Imbroglio_ | ![badge](https://img.shields.io/badge/status-Planning-RosyBrown.svg) |
-| _Scintilla_ | ![badge](https://img.shields.io/badge/status-v2+β:%40Editor-ForestGreen.svg) |
-| _Solace_ | ![badge](https://img.shields.io/badge/status-Synopsis-RosyBrown.svg) |
-
-### [Strand Series](https://github.com/merovex-press/stranded-series)
-
-Stranded is a steampunk novella series where 18th Century British-Americans discovered advanced technology in the Ohio Territory at the end of the Seven Year's War.
-
-| Title | Status | Tagline |
-| - | - | - |
-| _Book 1 - Discovery_  |  ![badge](https://img.shields.io/badge/status-v1+α:Hold-RosyBrown.svg) |   |
+Moving these to my latest project development home Basecamp.
 
 ### Other Book / Series Ideas
 
