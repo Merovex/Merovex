@@ -1,71 +1,70 @@
 # Ben Wilson, Geek Emeritus
 
-## About Ben
+I write science fiction for people who like competent characters, lived-in machinery, and moral clarity without the sermon. Think Heinlein with the serial numbers filed off, a touch of Firefly, and a working knowledge of how institutions actually run.
 
-Ben Wilson is the author of the Postal Marines science fantasy series and Strand series. He’s into history, human nature and religious studies. He served in the US Army through his 20s and got to meet some great people there. Now he does routine IT project management for customers who should know better. He pays the bills through their frustration. Ben lives in Northern Virginia with his wife, three of his four children, and two rabid attack cats. No, I did not sell the oldest off to the Core, as much as I might have liked to. He has a family of his own.
-[Learn more](https://merovex.press)
+Thirty-five years in federal IT taught me how large systems break and how the people inside them cope. I put that on the page. Now retired, I write full time under the Merovex Press imprint.
 
-## Pinned Private & Important Repos
+**[Start reading]([{{START_HERE_LINK}}](https://www.amazon.com/Bellicose-Military-Sci-Fi-Postal-Marine-ebook/dp/B0BD6866Q6/))** · **[Join the newsletter](https://merovex.press/newsletter)** · **[merovex.press](https://merovex.press)**
 
-* [Brainbook](https://github.com/Merovex/brain-book)
-* [Author Website](https://merovex.press)
+---
 
-## Project Boards
+## What I Write
 
+### Postal Marines (as Ben Wilson)
+Military science fiction. The mail must move, even when the empire is coming apart. Four books, available now.
 
-## Toolchain
-
-This is where I talk about the toolchain I use to go from ideation to distribution as a former developer. I'll link to articles as they come.
-
-* [My early articles
-   * Cleaning my Closet
-   * Writing on Github: Organizing the Book
-   * Introducing Korektu
-   * Writing on Github: Organizing the Series
-   * Unsharpening the Axe
-   * Automating Scrivener: Wordcount Log
-   * GitHub to Work with Your Beta Readers
-   * Automating Scrivener: GitHub Commit
-
-## Writing Projects
-
-Moving these to my latest project development home Basecamp.
-
-### Other Book / Series Ideas
-
-| Title | Status | Tagline |
+| Book | Status | Link |
 | - | - | - |
-|[Tears in the Rain](https://github.com/Merovex/tears) | ![badge](https://img.shields.io/badge/status-Planning-RosyBrown.svg) | |
-|Trolls in Space | ![badge](https://img.shields.io/badge/status-Concept-RosyBrown.svg) | |
-|Pigna Balkni | ![badge](https://img.shields.io/badge/status-Concept-RosyBrown.svg) | |
-|King David   | ![badge](https://img.shields.io/badge/status-Concept-RosyBrown.svg) | |
+| Bellicose | Available | [Books](https://merovex.press/books/) |
+| Gambit | Available | [Books](https://merovex.press/books/) |
+| Imbroglio | Available | [Books](https://merovex.press/books/) |
+| Scintilla | Available | [Books](https://merovex.press/books/) |
 
-### [Chroma Key](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
+### Riders of the Long Silence (as Ben Wilson)
 
-* ![badge](https://img.shields.io/badge/status-Done-Blue.svg) This project is in distribution with no futher work.
-* ![badge](https://img.shields.io/badge/status-Blocked-Firebrick.svg) This project has an impediment
-* ![badge](https://img.shields.io/badge/status-Waiting-DarkOrange.svg) This project waits for a dependency to complete
-* ![badge](https://img.shields.io/badge/status-Progressing-ForestGreen.svg) This project is working as expected
-* ![badge](https://img.shields.io/badge/status-Pending-RosyBrown.svg) This project is not moving, but it doesn't matter.
+Space opera in a space-western register. A drifter-procedural set in the Postal Marines universe, further down the timeline. In progress. Newsletter subscribers hear first.
 
-## Seinfeld Productivity - Don't Break the Chain
+### Strand (as Troy Buzby)
 
-Big one-year wall calendar. Place a Red-X when you complete your objective. Don't break the chain.
+Colonial alternate history. Four books, available now. If you like your speculative fiction grounded in the texture of a real founding era, start here.
 
-Need to add something like the Github progress calendar here.
+| Book | Status | Link |
+| - | - | - |
+| Strand: Discovery | Available | [Books](https://merovex.press/books/) |
+| Strand: Redemption | Available | [Books](https://merovex.press/books/) |
+| Strand: Upheaval | Available | [Books](https://merovex.press/books/) |
 
+---
 
-<!--
-**Merovex/Merovex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Start Here, Free
 
-Here are some ideas to get you started:
+New to my work? Grab a free reader magnet and see if we get along. **[join the newsletter](https://merovex.press/newsletter)**. I send occasional dispatches on new releases, the worlds behind the books, and the tools I build to write them. No spam, easy unsubscribe.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## For the Fellow Tinkerers
+
+If you found your way here because you build things, welcome. I do too.
+
+I draft, version, and ship my books the way I used to ship software: from the command line, in plain text, under source control. I am building **Verkilo**, a desktop writing application (Tauri + Rails, with MCP integration) for authors who want their manuscript treated like a real project instead of a word-processor blob.
+
+A few early articles on writing as a developer:
+
+* Cleaning My Closet
+* Writing on GitHub: Organizing the Book
+* Writing on GitHub: Organizing the Series
+* Introducing Korektu
+* Automating Scrivener: Wordcount Log
+* Automating Scrivener: GitHub Commit
+* Working With Your Beta Readers on GitHub
+
+More as I write them. Stack is Ruby, Rails, a little Rust, and a standing refusal to touch React.
+
+---
+
+## Find Me
+
+* **Website and full catalog:** [merovex.press](https://merovex.press)
+* **Newsletter:** [newsletter](https://merovex.press/newsletter)
+
+Retired in Raleigh, North Carolina. Lives with his wife Cathy, three of four kids and two Maine Coon cats who run the household.
